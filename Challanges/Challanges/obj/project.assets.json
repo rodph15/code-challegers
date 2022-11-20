@@ -6047,11 +6047,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\Temp\\Challanges\\Challanges\\Challanges.csproj",
+      "projectUniqueName": "C:\\Projetos\\code-challegers\\Challanges\\Challanges\\Challanges.csproj",
       "projectName": "Challanges",
-      "projectPath": "C:\\Projetos\\Temp\\Challanges\\Challanges\\Challanges.csproj",
+      "projectPath": "C:\\Projetos\\code-challegers\\Challanges\\Challanges\\Challanges.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\Temp\\Challanges\\Challanges\\obj\\",
+      "outputPath": "C:\\Projetos\\code-challegers\\Challanges\\Challanges\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

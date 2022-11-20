@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YTJLOFUvAF93ZoTYwAN9wb9kFzk3E2YjQu1PBdJNTOmNG4j6O+tezZAZw9aB0BXt/d84GtQ86k1hvNcOKduh/w==",
+  "dgSpecHash": "rWSKgbBMD0mkUbZBQHkrER1VI3KKpAXmaHF/sLl7uTJJRJNu/hDoFG0MZx6INeVlJS7JqfyuUOLjUKy7GxomLQ==",
   "success": true,
-  "projectFilePath": "C:\\Projetos\\Temp\\Challanges\\Challanges\\Challanges.csproj",
+  "projectFilePath": "C:\\Projetos\\code-challegers\\Challanges\\Challanges\\Challanges.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Usuario\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.codecoverage\\17.3.2\\microsoft.codecoverage.17.3.2.nupkg.sha512",

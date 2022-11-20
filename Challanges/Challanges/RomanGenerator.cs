@@ -50,7 +50,7 @@ namespace Challanges
             {
                 if (i > 0 && _romanMapper[roman[i].ToString()] > _romanMapper[roman[i - 1].ToString()])
                 {
-                    number += _romanMapper[roman[i - 1].ToString() + roman[i].ToString()];
+                    number += _romanMapper[$"{roman[i - 1]}{roman[i]}"];
                     i--;
                     continue;
                 }
